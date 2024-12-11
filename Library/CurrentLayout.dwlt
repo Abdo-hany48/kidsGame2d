@@ -45,7 +45,11 @@ MonoBehaviour:
   m_MinSize: {x: 681, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
+<<<<<<< HEAD
   controlID: 109
+=======
+  controlID: 103
+>>>>>>> a43d6ddce7d691084a5c3942c4df1e985ce39dd0
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -210,7 +214,11 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
+<<<<<<< HEAD
   controlID: 27
+=======
+  controlID: 104
+>>>>>>> a43d6ddce7d691084a5c3942c4df1e985ce39dd0
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -234,7 +242,11 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 221}
   m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
+<<<<<<< HEAD
   controlID: 91
+=======
+  controlID: 105
+>>>>>>> a43d6ddce7d691084a5c3942c4df1e985ce39dd0
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -360,7 +372,11 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: -1
+<<<<<<< HEAD
   m_LastProjectPath: D:\Unity\KidsGame2d\kidsGame2d
+=======
+  m_LastProjectPath: E:\testAbdo\kidsGame2d
+>>>>>>> a43d6ddce7d691084a5c3942c4df1e985ce39dd0
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
@@ -423,7 +439,11 @@ MonoBehaviour:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 1
+<<<<<<< HEAD
     m_ExpandedInstanceIDs: c6230000000000003e2d0000
+=======
+    m_ExpandedInstanceIDs: c6230000
+>>>>>>> a43d6ddce7d691084a5c3942c4df1e985ce39dd0
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -511,9 +531,15 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
     m_SelectedIDs: 2280fcff
     m_LastClickedID: -229342
     m_ExpandedIDs: a854fcff5256fcffee57fcffca59fcffac98fcff169afcffac0bfdff1e0dfdff5671fdff5676fdff203bfeff9c80feff2ce2ffff7ceeffffd4fbffff00000000fa0b0000
+=======
+    m_SelectedIDs: 16360000
+    m_LastClickedID: 13846
+    m_ExpandedIDs: 9c99feff64affeff36c2feff64d4feff18e5feff6cf6feff4c07ffffa219ffff582bffffa440ffff8056ffff6470ffff4e78ffff2e9effff8ec1ffffe6fbffff00000000760c0000622e0000382f000034300000883000004e310000dc3100008a320000e23200004a330000ba33000022340000a2340000fa3400005a35000000360000
+>>>>>>> a43d6ddce7d691084a5c3942c4df1e985ce39dd0
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -653,8 +679,13 @@ MonoBehaviour:
     vZoomLockedByDefault: 0
     m_HBaseRangeMin: -367.2
     m_HBaseRangeMax: 367.2
+<<<<<<< HEAD
     m_VBaseRangeMin: -159.6
     m_VBaseRangeMax: 159.6
+=======
+    m_VBaseRangeMin: -161.6
+    m_VBaseRangeMax: 161.6
+>>>>>>> a43d6ddce7d691084a5c3942c4df1e985ce39dd0
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -690,7 +721,11 @@ MonoBehaviour:
   m_defaultScale: 1
   m_TargetTexture: {fileID: 0}
   m_CurrentColorSpace: 0
+<<<<<<< HEAD
   m_LastWindowPixelSize: {x: 1147.5, y: 520}
+=======
+  m_LastWindowPixelSize: {x: 1147.5, y: 526.25}
+>>>>>>> a43d6ddce7d691084a5c3942c4df1e985ce39dd0
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000100000100
