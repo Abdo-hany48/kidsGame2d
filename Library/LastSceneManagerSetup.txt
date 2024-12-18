@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/SelectingCharacters.unity
+- path: Assets/Scenes/Q example.unity
   isLoaded: 1
   isActive: 1
