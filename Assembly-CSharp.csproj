@@ -57,11 +57,29 @@
      <Compile Include="Assets\MoveScenes\B_to_C.cs" />
      <Compile Include="Assets\MoveScenes\C_to_D.cs" />
      <Compile Include="Assets\MoveScenes\D_to_E.cs" />
+     <Compile Include="Assets\MoveScenes\E_to_F.cs" />
+     <Compile Include="Assets\MoveScenes\F_to_G.cs" />
+     <Compile Include="Assets\MoveScenes\G_to_H.cs" />
+     <Compile Include="Assets\MoveScenes\H_to_I.cs" />
+     <Compile Include="Assets\MoveScenes\I_to_J.cs" />
+     <Compile Include="Assets\MoveScenes\J_to_K.cs" />
+     <Compile Include="Assets\MoveScenes\K_to_L.cs" />
+     <Compile Include="Assets\MoveScenes\L_to_M.cs" />
+     <Compile Include="Assets\MoveScenes\M_to_N.cs" />
+     <Compile Include="Assets\MoveScenes\N_to_O.cs" />
+     <Compile Include="Assets\MoveScenes\O_to_P.cs" />
+     <Compile Include="Assets\MoveScenes\P_to_Q.cs" />
+     <Compile Include="Assets\MoveScenes\Q_to_R.cs" />
+     <Compile Include="Assets\MoveScenes\R_to_S.cs" />
+     <Compile Include="Assets\MoveScenes\S_to_T.cs" />
+     <Compile Include="Assets\MoveScenes\T_to_U.cs" />
      <Compile Include="Assets\MoveScenes\to_Quiz_Or.cs" />
      <Compile Include="Assets\MoveScenes\to_Quiz_Or2.cs" />
-     <Compile Include="Assets\Q_to_R.cs" />
-     <Compile Include="Assets\to_ch.cs" />
-     <Compile Include="Assets\to_character.cs" />
+     <Compile Include="Assets\MoveScenes\U_to_V.cs" />
+     <Compile Include="Assets\MoveScenes\V_to_W.cs" />
+     <Compile Include="Assets\MoveScenes\W_to_X.cs" />
+     <Compile Include="Assets\MoveScenes\X_to_Y.cs" />
+     <Compile Include="Assets\MoveScenes\Y_to_Z.cs" />
  <Reference Include="UnityEditor.StandardEvents">
  <HintPath>E:/testAbdo/kidsGame2d/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
