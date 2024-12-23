@@ -26,6 +26,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/F example.unity
     guid: ecf07fc32bd1d73409806fc1b5658c19
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Quiz1 Q5.unity
+    guid: f08a0b6d7b13fe34eae31eb87cdb61cc
+  - enabled: 1
+    path: Assets/Scenes/Quiz1 End.unity
+    guid: 381297e6b78a0cd4fb95fedb79a420fb
   - enabled: 1
     path: Assets/Scenes/G example.unity
     guid: faa35a20da61ec343b76d1e96095b8f2
@@ -86,6 +95,18 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/L example.unity
     guid: 7de7ef56ebd85ae409156c787247fea2
+  - enabled: 1
+    path: Assets/Scenes/Quiz1 Q1.unity
+    guid: 8ff0668b2ad76354a86371be9ce99816
+  - enabled: 1
+    path: Assets/Scenes/Quiz1 Q2.unity
+    guid: fea14cd64b8229f499b19959bc9d9fb7
+  - enabled: 1
+    path: Assets/Scenes/Quiz1 Q3.unity
+    guid: b2bbc69b4f57a5948805b4826a3eb819
+  - enabled: 1
+    path: Assets/Scenes/Quiz1 Q4.unity
+    guid: 68fc72978297ed54baa02f5d112ae6e7
   - enabled: 1
     path: Assets/Scenes/M example.unity
     guid: 5e99b46ed57251342bfa1f69841c02bf
