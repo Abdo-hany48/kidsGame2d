@@ -76,8 +76,18 @@
      <Compile Include="Assets\Scripts\S_to_T.cs" />
      <Compile Include="Assets\Scripts\T_to_U.cs" />
      <Compile Include="Assets\Scripts\Timer.cs" />
+     <Compile Include="Assets\Scripts\to_A.cs" />
      <Compile Include="Assets\Scripts\to_charc.cs" />
      <Compile Include="Assets\Scripts\to_end1.cs" />
+     <Compile Include="Assets\Scripts\to_num1.cs" />
+     <Compile Include="Assets\Scripts\to_num2.cs" />
+     <Compile Include="Assets\Scripts\to_num3.cs" />
+     <Compile Include="Assets\Scripts\to_num4.cs" />
+     <Compile Include="Assets\Scripts\to_num5.cs" />
+     <Compile Include="Assets\Scripts\to_num6.cs" />
+     <Compile Include="Assets\Scripts\to_num7.cs" />
+     <Compile Include="Assets\Scripts\to_num8.cs" />
+     <Compile Include="Assets\Scripts\to_num9.cs" />
      <Compile Include="Assets\Scripts\to_Q1.cs" />
      <Compile Include="Assets\Scripts\to_Q2.cs" />
      <Compile Include="Assets\Scripts\to_Q3.cs" />
@@ -85,20 +95,13 @@
      <Compile Include="Assets\Scripts\to_Q5.cs" />
      <Compile Include="Assets\Scripts\to_Quiz_Or.cs" />
      <Compile Include="Assets\Scripts\to_Quiz_Or2.cs" />
+     <Compile Include="Assets\Scripts\to_start.cs" />
      <Compile Include="Assets\Scripts\U_to_V.cs" />
      <Compile Include="Assets\Scripts\V_to_W.cs" />
      <Compile Include="Assets\Scripts\W_to_X.cs" />
      <Compile Include="Assets\Scripts\X_to_Y.cs" />
      <Compile Include="Assets\Scripts\Y_to_Z.cs" />
-     <Compile Include="Assets\to_num2.cs" />
-     <Compile Include="Assets\to_num3.cs" />
-     <Compile Include="Assets\to_num4.cs" />
-     <Compile Include="Assets\to_num5.cs" />
-     <Compile Include="Assets\to_num6.cs" />
-     <Compile Include="Assets\to_num7.cs" />
-     <Compile Include="Assets\to_num8.cs" />
-     <Compile Include="Assets\to_num9.cs" />
-     <Compile Include="Assets\to_start.cs" />
+     <Compile Include="Assets\to_learn.cs" />
  <Reference Include="UnityEditor.StandardEvents">
  <HintPath>E:/testAbdo/kidsGame2d/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>

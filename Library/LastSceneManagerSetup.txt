@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Quiz1 Q1.unity
+- path: Assets/Scenes/learninglevels.unity
   isLoaded: 1
   isActive: 1
