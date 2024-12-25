@@ -90,6 +90,15 @@
      <Compile Include="Assets\Scripts\W_to_X.cs" />
      <Compile Include="Assets\Scripts\X_to_Y.cs" />
      <Compile Include="Assets\Scripts\Y_to_Z.cs" />
+     <Compile Include="Assets\to_num2.cs" />
+     <Compile Include="Assets\to_num3.cs" />
+     <Compile Include="Assets\to_num4.cs" />
+     <Compile Include="Assets\to_num5.cs" />
+     <Compile Include="Assets\to_num6.cs" />
+     <Compile Include="Assets\to_num7.cs" />
+     <Compile Include="Assets\to_num8.cs" />
+     <Compile Include="Assets\to_num9.cs" />
+     <Compile Include="Assets\to_start.cs" />
  <Reference Include="UnityEditor.StandardEvents">
  <HintPath>E:/testAbdo/kidsGame2d/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>

@@ -343,7 +343,7 @@ GameObject:
   - component: {fileID: 571893437}
   - component: {fileID: 571893436}
   - component: {fileID: 571893435}
-  - component: {fileID: 571893439}
+  - component: {fileID: 571893438}
   m_Layer: 5
   m_Name: Button
   m_TagString: Untagged
@@ -409,7 +409,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 571893439}
+      - m_Target: {fileID: 571893438}
         m_MethodName: OnAnswerSelected
         m_Mode: 1
         m_Arguments:
@@ -456,7 +456,7 @@ CanvasRenderer:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 571893433}
   m_CullTransparentMesh: 0
---- !u!114 &571893439
+--- !u!114 &571893438
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -464,7 +464,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 571893433}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c28b719fcb4d69340abbfb1455a37e11, type: 3}
+  m_Script: {fileID: 11500000, guid: 3f5b99bc0d7ad144cba0ba4bba48fd16, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   isCorrectAnswer: 1
@@ -675,7 +675,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1021901267}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c28b719fcb4d69340abbfb1455a37e11, type: 3}
+  m_Script: {fileID: 11500000, guid: 3f5b99bc0d7ad144cba0ba4bba48fd16, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   isCorrectAnswer: 0

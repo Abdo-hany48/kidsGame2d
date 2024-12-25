@@ -641,7 +641,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 535956094}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3f5b99bc0d7ad144cba0ba4bba48fd16, type: 3}
+  m_Script: {fileID: 11500000, guid: c28b719fcb4d69340abbfb1455a37e11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   isCorrectAnswer: 0
@@ -691,7 +691,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 771356495}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3f5b99bc0d7ad144cba0ba4bba48fd16, type: 3}
+  m_Script: {fileID: 11500000, guid: c28b719fcb4d69340abbfb1455a37e11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   isCorrectAnswer: 0
@@ -734,7 +734,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 771356497}
+      - m_Target: {fileID: 535956099}
         m_MethodName: OnAnswerSelected
         m_Mode: 1
         m_Arguments:
@@ -1232,7 +1232,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 2111714068}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3f5b99bc0d7ad144cba0ba4bba48fd16, type: 3}
+  m_Script: {fileID: 11500000, guid: c28b719fcb4d69340abbfb1455a37e11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   isCorrectAnswer: 1

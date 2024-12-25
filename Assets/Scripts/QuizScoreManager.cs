@@ -41,6 +41,12 @@ public class QuizScoreManager : MonoBehaviour
 
     private void OnSceneLoaded(Scene scene, LoadSceneMode mode)
     {
+        // Check if the loaded scene is "Quiz1 Q1"
+        if (scene.name == "Quiz1 Q1")
+        {
+            ResetScore(); // Reset the score to zero
+        }
+
         AssignScoreText();
         UpdateScoreText();
     }
@@ -72,5 +78,11 @@ public class QuizScoreManager : MonoBehaviour
     public int GetScore()
     {
         return score;
+    }
+
+    public void ResetScore()
+    {
+        score = 0; // Reset the score to zero
+        UpdateScoreText();
     }
 }

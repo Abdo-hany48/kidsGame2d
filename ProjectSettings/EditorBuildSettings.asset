@@ -42,6 +42,33 @@ EditorBuildSettings:
     path: Assets/Scenes/Q example.unity
     guid: 8f2ef19bb8ab53e4080f6bbfa749e793
   - enabled: 1
+    path: Assets/Scenes/Num1 example.unity
+    guid: 56befd57951cc1744a4d410333166396
+  - enabled: 1
+    path: Assets/Scenes/Num2 example.unity
+    guid: 0358126db4369eb4db14cfde54d8e1c9
+  - enabled: 1
+    path: Assets/Scenes/Num3 example.unity
+    guid: b98e13cbab8b63d4a9da38397f767a2a
+  - enabled: 1
+    path: Assets/Scenes/Num4 example.unity
+    guid: 953acb7818ac8914380f5ce4f2982eee
+  - enabled: 1
+    path: Assets/Scenes/Num5 example.unity
+    guid: b1237e78e00d0504ab14507822685107
+  - enabled: 1
+    path: Assets/Scenes/Num6 example.unity
+    guid: 6f3a50a31db60c44fa41e659fcb2a28f
+  - enabled: 1
+    path: Assets/Scenes/Num7 example.unity
+    guid: b6f77e25a771b494fab90fd3af5121f9
+  - enabled: 1
+    path: Assets/Scenes/Num8 example.unity
+    guid: 0975db78f44741d459f9f199d3736828
+  - enabled: 1
+    path: Assets/Scenes/Num9 example.unity
+    guid: f6a544126cd19764ba34fde14fa25982
+  - enabled: 1
     path: Assets/Scenes/R example.unity
     guid: 9b8bd45ace3d06442b877d7714246ef3
   - enabled: 1
