@@ -23,11 +23,11 @@ public class to_Q2 : MonoBehaviour
         int nextSceneIndex = currentSceneIndex + 1;
 
         // Check if there is a next scene
-        //if (nextSceneIndex < SceneManager.sceneCountInBuildSettings)
+        if (nextSceneIndex < SceneManager.sceneCountInBuildSettings)
         {
             SceneManager.LoadScene("Quiz1 Q2");
         }
-        //else
+        else
         {
           //  Debug.LogWarning("No next scene available.");
         }

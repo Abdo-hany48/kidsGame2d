@@ -60,6 +60,7 @@
      <Compile Include="Assets\Scripts\E_to_F.cs" />
      <Compile Include="Assets\Scripts\F_to_G.cs" />
      <Compile Include="Assets\Scripts\FinalScoreDisplay.cs" />
+     <Compile Include="Assets\Scripts\FinalScoreDisplay2.cs" />
      <Compile Include="Assets\Scripts\G_to_H.cs" />
      <Compile Include="Assets\Scripts\H_to_I.cs" />
      <Compile Include="Assets\Scripts\I_to_J.cs" />
@@ -72,13 +73,18 @@
      <Compile Include="Assets\Scripts\P_to_Q.cs" />
      <Compile Include="Assets\Scripts\Q_to_R.cs" />
      <Compile Include="Assets\Scripts\QuizScoreManager.cs" />
+     <Compile Include="Assets\Scripts\QuizScoreManager2.cs" />
      <Compile Include="Assets\Scripts\R_to_S.cs" />
      <Compile Include="Assets\Scripts\S_to_T.cs" />
      <Compile Include="Assets\Scripts\T_to_U.cs" />
      <Compile Include="Assets\Scripts\Timer.cs" />
+     <Compile Include="Assets\Scripts\Timer2.cs" />
      <Compile Include="Assets\Scripts\to_A.cs" />
      <Compile Include="Assets\Scripts\to_charc.cs" />
      <Compile Include="Assets\Scripts\to_end1.cs" />
+     <Compile Include="Assets\Scripts\to_end2.cs" />
+     <Compile Include="Assets\Scripts\to_learn.cs" />
+     <Compile Include="Assets\Scripts\to_menuQuizzes.cs" />
      <Compile Include="Assets\Scripts\to_num1.cs" />
      <Compile Include="Assets\Scripts\to_num2.cs" />
      <Compile Include="Assets\Scripts\to_num3.cs" />
@@ -89,9 +95,13 @@
      <Compile Include="Assets\Scripts\to_num8.cs" />
      <Compile Include="Assets\Scripts\to_num9.cs" />
      <Compile Include="Assets\Scripts\to_Q1.cs" />
+     <Compile Include="Assets\Scripts\to_Q11.cs" />
      <Compile Include="Assets\Scripts\to_Q2.cs" />
+     <Compile Include="Assets\Scripts\to_Q22.cs" />
      <Compile Include="Assets\Scripts\to_Q3.cs" />
+     <Compile Include="Assets\Scripts\to_Q33.cs" />
      <Compile Include="Assets\Scripts\to_Q4.cs" />
+     <Compile Include="Assets\Scripts\to_Q44.cs" />
      <Compile Include="Assets\Scripts\to_Q5.cs" />
      <Compile Include="Assets\Scripts\to_Quiz_Or.cs" />
      <Compile Include="Assets\Scripts\to_Quiz_Or2.cs" />
@@ -101,7 +111,6 @@
      <Compile Include="Assets\Scripts\W_to_X.cs" />
      <Compile Include="Assets\Scripts\X_to_Y.cs" />
      <Compile Include="Assets\Scripts\Y_to_Z.cs" />
-     <Compile Include="Assets\to_learn.cs" />
  <Reference Include="UnityEditor.StandardEvents">
  <HintPath>E:/testAbdo/kidsGame2d/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
