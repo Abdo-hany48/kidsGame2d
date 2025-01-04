@@ -33,6 +33,24 @@ EditorBuildSettings:
     path: Assets/Scenes/Quiz2 Q1.unity
     guid: b4b5542148723c94e96feb8ba63a145a
   - enabled: 1
+    path: Assets/Scenes/Quiz3 Q1.unity
+    guid: cf836d1af3c5e8645b6f102dc31b02cb
+  - enabled: 1
+    path: Assets/Scenes/Quiz3 Q2.unity
+    guid: e60e06dbe520a354fb8c93c8b4429186
+  - enabled: 1
+    path: Assets/Scenes/Quiz3 Q3.unity
+    guid: a9179ce203a847a4da3256236e945793
+  - enabled: 1
+    path: Assets/Scenes/Quiz3 Q4.unity
+    guid: 16468e36b8a250d489204090280b48b2
+  - enabled: 1
+    path: Assets/Scenes/Quiz3 Q5.unity
+    guid: 6d8c70c0099201c48ba5c2a13170bc60
+  - enabled: 1
+    path: Assets/Scenes/Quiz3 End.unity
+    guid: 76dde9d8180841d4dbea1586bc7319a0
+  - enabled: 1
     path: Assets/Scenes/Quiz1 Q5.unity
     guid: f08a0b6d7b13fe34eae31eb87cdb61cc
   - enabled: 1
