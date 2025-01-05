@@ -9,4 +9,9 @@ public class to_Quiz_Or2 : MonoBehaviour
     {
         SceneManager.LoadScene("Qui or Learn");
     }
+
+    public void maleCharacterSelecting()
+    {
+        StaticData.chosenCharacter=true;
+    }
 }

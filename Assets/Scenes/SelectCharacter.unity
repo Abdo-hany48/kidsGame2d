@@ -802,6 +802,7 @@ GameObject:
   - component: {fileID: 952382211}
   - component: {fileID: 952382210}
   - component: {fileID: 952382213}
+  - component: {fileID: 952382214}
   m_Layer: 5
   m_Name: Female Character
   m_TagString: Untagged
@@ -878,6 +879,17 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 952382213}
+        m_MethodName: characterSelecting
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
       Culture=neutral, PublicKeyToken=null
 --- !u!114 &952382211
@@ -915,6 +927,17 @@ CanvasRenderer:
   m_GameObject: {fileID: 952382208}
   m_CullTransparentMesh: 0
 --- !u!114 &952382213
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 952382208}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82810b01c3097a6429b047f786e0b9ee, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &952382214
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1073,6 +1096,17 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1265714425}
         m_MethodName: goToNextScene
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1265714425}
+        m_MethodName: maleCharacterSelecting
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
